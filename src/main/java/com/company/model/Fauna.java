@@ -11,6 +11,7 @@ import java.math.BigDecimal;
 @Getter
 @Setter
 @FieldDefaults(level = AccessLevel.PRIVATE)
+
 public abstract class Fauna extends NatureObject {
     Integer speed;
     BigDecimal satiety;

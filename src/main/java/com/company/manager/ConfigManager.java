@@ -42,5 +42,4 @@ public class ConfigManager {
         }
         return configManager;
     }
-
 }

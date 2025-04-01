@@ -13,6 +13,7 @@ import java.math.BigDecimal;
 @Setter
 @AllArgsConstructor
 @FieldDefaults(level = AccessLevel.PRIVATE)
+
 public abstract class NatureObject {
 
     BigDecimal weight;
